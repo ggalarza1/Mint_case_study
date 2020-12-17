@@ -1,8 +1,8 @@
 **Case Study Template**
 
-```
-# Title
 
+# Title
+<img src ="images/mint-2.png" alt="mint" width="200"/>
 ## Overview and Origin
 
 * Name of company
@@ -62,7 +62,7 @@ Mint is in the Personal Finance. It's in the section of free money management ap
 * What technologies would this additional product or service utilize?
 
 * Why are these technologies appropriate for your solution?
-```
+
 
 #### 4. Write the case study.
 

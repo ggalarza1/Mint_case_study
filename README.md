@@ -100,7 +100,6 @@ When it comes to the Personal Finance domain, Mint's competitors include:
 
 ## Results
 
-* What has been the business impact of this company so far?
 Mint is one of the most popular personal finance budgeting apps having over 20 million users as of November 2020 compare to it's competitors.
 
 Some of the metrics used to compare companies in this domain include yearly/monthy fees, customer service, investment tracking, credit score monitoring, budgeting categorization & limits, education learning tools such as wealth management tools, and synchronization.Based on the metrics mentioned, Mint does a good job on most of metrics but has lacked on customer service and synchronization not allowing the app to be the best one around.

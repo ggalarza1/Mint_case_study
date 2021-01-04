@@ -6,26 +6,26 @@
 
 The name of the application in this study case is Mint App, it's legal name is Mint Software Inc. Mint was founded in 2006. The founder of the company is Aaron Patzer.
 
-While attending school in his late teens, Aaron Patzer was commingling his business and personal finances. Roughly spending around an hour, each sunday per week using tools such as Quicken and Microsoft money to reconcile his expenses. The idea of mint came about after he forgot to update his finances for 5 months due to school and an excess of work. He didn't open Quicken to update anything, when he finally got to his task, he had over 500 uncategorized transactions to deal with. Inspired by his dreadful task, Aaron Patzer wanted to make a tool that would help people reconcile their finances in minutes. Mint was then born. He wanted to create something that was easy to use, efficient, that would help people make better money decisions.
+While attending school in his late teens, Aaron Patzer was commingling his business and personal finances. Roughly spending around an hour, each sunday per week using tools such as Quicken and Microsoft money to reconcile his expenses. The idea of mint came about after, he forgot to update his finances for 5 months due to school and an excess of work. He didn't open Quicken to update anything, and when he finally got to his task, he had over 500 uncategorized transactions to deal with. Inspired by his dreadful task, Aaron Patzer wanted to make a tool that would help people reconcile their finances within minutes. Mint was then born. He wanted to create something that was easy to use, efficient and that would help people make better money decisions.
 
 When it comes to funding, Mint has raised $31.8M in funding over 5 rounds. According to Crunchbase.com, the last funding was on Aug. 12, 2009. Mint has 15 investors.
 
 * During the Seed Round on Oct 1, 2006, they fundraised $325k with 1 investor.
 * During the Angel Round on Nov 2, 2006, they fundraised $750k with 5 investors.
-* During the Series A, on Oct 16, 2007, they fundraised $4.7M with 8 investors.
-* During the Series B, on Mar 5, 2008, they fundraised $12M with 6 investors.
-* During the Series C, on Aug 12, 2009, they fundraised $14M with 6 investors.
+* During the Series A on Oct 16, 2007, they fundraised $4.7M with 8 investors.
+* During the Series B on Mar 5, 2008, they fundraised $12M with 6 investors.
+* During the Series C on Aug 12, 2009, they fundraised $14M with 6 investors.
 
 Mint was then acquired by Intuit on September 14, 2009 for $170M. 
 
 ## Business Activities:
 
-The financial problem the company is trying to solve is financial awareness, financial literacy, and to save time for people that don't have it. The founder wanted to create a company that could help people reconcile their bank statements in minutes. An application that would be easy to understand, something that would track personal finances and also provide advice on how to save money. Help people find good deals such as when is the best time to refinance mortgages and/or student loans. The app was also designed to help the consumer answer questions such as where is my money going, and where do I need to budget better?
+The financial problem the company is trying to solve is financial awareness, financial literacy and to help people save time. The founder wanted to create a company that could help people reconcile their bank statements in minutes. An application that would be easy to understand, something that would track personal finances and also provide advice on how to save money. Help people find good deals, such as when is the best time to refinance mortgages and/or student loans. The app was also designed to help the consumer answer questions such as "where is my money going?" and "where do I need to budget better?".
 
 According to the company's first strategy plan created by Noah Kagan, the company's intended customers were young professionals, people in debt and new families. Some of those new families really targeted mothers, who are always finding ways to save. 
-Mint's market target has changed throughout the years. Market size has changed due to market strategy and goal setting as discussed in Noah Kagan's blog. Some of the tactics first utilized at the beginning, focused on it's market target through personal finance bloggers and tech professionals. Mint App has reached 20 million downloads. According to SimilarWeb, the majority (92.56%) of Mint's customers are located in the US.
+Mint's market target has changed throughout the years. Market size has changed due to market strategy and goal setting as discussed in Noah Kagan's blog. Some of the tactics first utilized, focused on it's market target through personal finance bloggers and tech professionals. Mint App has reached 20 million downloads. According to SimilarWeb, the majority (92.56%) of Mint's customers are located in the US.
 
-Mint App offers their services for free instead of most of their competitors who have fees. Free TransUnion credit scores have given Mint a competitive advantage over the competitors who offer free services. It's also interesting to note that there is a huge amount of blogs that talk about alternatives to Mint.
+Mint App offers their services for free instead of most of their competitors who have fees. Free TransUnion credit scores have given Mint a competitive advantage over their competitors especially those who offer free services. It's also interesting to note that there is a huge amount of blogs that talk about alternatives to Mint. I bring this up because it is unusual and I think it's part of their competitive advantage.
 
 When it comes to the technology mint uses, Crunchbase mentions that Mint uses 60 technology products (ex. HTML5, Google Analytics, & jQuery). It's website alone is utilizing 41 technologies including SPF, Google Font API, and WordPress. Websites such as Stackshare on the other hand, showcase that Mint utilizes the following technologies:
 * Application and Data: PHP, NGINX, Boostrap, Amazon CloudFront
@@ -57,43 +57,7 @@ When it comes to the Personal Finance domain, Mint's competitors include:
 <html>
  <div class="row">
   <div class="column">
-    <img align ="left" width="200" src="images/personalcapital.png" alt="Personal Capital">
-  </div>
- <div class="row">
-  <div class="column">
-    <img align ="middle" width="200" src="images/every_dollar.png" alt="Everydollar">
-  </div>
- <div class="row">
-  <div class="column">
-    <img align ="right" width="200" src="images/money_dance.gnp" alt="Forest">
-  </div>
- <div class="row">
-  <div class="column">
-    <img align ="left" width="300" src="images/banktivity.png" alt="Banktivity">
-  </div>
- <div class="row">
-  <div class="column">
-    <img align ="middle" width="200" src="images/countabout.png" alt="CountAbout">
-  </div>
- <div class="row">
-  <div class="column">
-    <img align ="right" width="200" src="images/status.png" alt="Status">
-  </div>
- <div class="row">
-  <div class="column">
-    <img align ="left" width="200" height="100" src="images/quiken.png" alt="Quiken">
-  </div>
- <div class="row">
-  <div class="column">
-    <img align ="right" width="200" height="100" src="images/tiller.png" alt="Tiller">
-  </div>
- <div class="row">
-  <div class="column">
-    <img align ="left" width="300" height="100" src="images/YNAB.png" alt="YNAB">
-  </div>
- <div class="row">
-  <div class="column">
-    <img align ="middle" width="200" height="100" src="images/pocketsmith.png" alt="pocketsmith">
+    <img align ="middle" width="700" src="images/Competitors.png" alt="Competitors">
   </div>
 </html>
 
@@ -104,21 +68,24 @@ Mint is one of the most popular personal finance budgeting apps having over 20 m
 
 Some of the metrics used to compare companies in this domain include yearly/monthly fees, customer service, investment tracking, credit score monitoring, budgeting categorization & limits, education learning tools such as wealth management tools, and synchronization.Based on the metrics mentioned, Mint does a good job on most of metrics but has lacked on customer service and synchronization not allowing the app to be the best one around.
 
-According to Investopedia.com, the best overall budgeting app is You Need a Budget (YNAB) due to the company's philosophy and reputation. This app is costly at $87 a year. Mint is the second budget app mentioned in the article as being the Best Free Budgeting App. You pay nothing compared to You Need a Budget (YNAB) app yet most of the cons from mint mention the issues the company is having with customer service and synchronization. If the company didn't have these issues, it would probably be the best budgeting app available.
+According to Investopedia.com, the best overall budgeting app is You Need a Budget (YNAB) due to the company's philosophy and reputation. This app is costly at $87 a year. Mint is the second budget app mentioned in the article as being the Best Free Budgeting App. You pay nothing compared to You Need a Budget (YNAB) app, yet most of the cons from mint mention in the article point out the issues the company is having with customer service and synchronization. If the company didn't have these issues, it would be the best budgeting app available.
 
 
 ## Recommendations
 
-If i was to advise the company, i would suggest finding better ways to improve their customer service platform. Adding additional bots. Find ways to get rid of complaints, maybe utilizing AI to help answer questions on the website.
+* If I was to advise the company, I would suggest the company find better ways to improve their customer service platform. Perhaps by adding additional bots. Find ways to get rid of complaints, maybe utilizing AI to help answer questions on their website to improve customer service.Offering better customer service could make the app better as this tends to be one of the things that customer's complain the most. Fixing this issue can only help the app.
 
-I would also suggest the company add a system that allows the customer to be more strict with their budgets. This can include having additional alerts when someone will reach their budgets.There's companies such as Pocket Guard who are helping their customers with overspending and helping them take a grip of their spending habits.
+* I would also suggest the company add a system that allows the customer to be more strict with their budgets. When it comes to budgets right now in the app, you need to adjust every budget to every account manually. If you want to see the trends from previous months, you need to click a pencil button on the right side of each budget account. I think the app could make a whole section in the app for budgets and analytics. Most people who have a finance app want to know these trends. There is growth in this area. Not only to grab the attention of new consumers looking for a finance app but also to make the app a bit more interesting. There's companies such as Pocket Guard who see the surge in demand of overspending budget apps, use analytics as a way to help their customers with overspending and making better habits. Mint has the concept in the app but it's not displaying it in a more interactive way.
 
-Also adding a section for goal setting. Imagine if someone wants to save $1k within a specific time frame. The company can put a section of goal setting and help the customer by giving them tips on how to better achieve their goals. It doesn't have to be harsh tips or judgemental tips but an example of this can be "Make automated savings deposit of $$ amount per week to reach your goal by this day.". Another example can be, "You received an additional amount of money this week of $50. Save it to reach your goal faster!"
+* Also adding additional goals in their goal setting section. Right now, the app gives you two options, "Crush credit card debt" and "Improve my credit score". 
 
-Offering better customer service could make the app better as this tends to be one of the things the customer's complain the most. Fixing this issue can only help the app.  Adding a savings goal section, or implementing stricter budgeting tools could help customers obtain their goals faster. There is a lot of research that proves that our habits help us or break us. The company can benefit from helping the customer to achieve their goals and in return they will become more popular, it's a domino effect.
+  * The app should add a section to save. Imagine if someone wants to save 1k within a specific time frame. Mint could help the consumer achieve their goals by giving them tips on how to do it. It doesn't have to be harsh tips or judgemental tips but an example of this can be "Make automated savings deposit of __x__ amount per week to reach your goal by this day.". Another example can be, "You received an additional amount of money this week of $50. Save it to reach your goal faster!". 
+  * When it comes to crushing debt, the app can make this a whole section. When you start entering debts in the app, the app automatically updates your net worth, cash, credit cards and investments. Imagine you enter your mortgage as part of debt. Your net worth will always show negative until it gets paid off. I think debts should be displayed differently and handled  differently as everyone has them. If you want to make it a goal to crush a debt item, the app right now doesn't allow you to pick any debt but only credit card debt. I think the app should expand on their debt section. There is so many people that need help tackling their debts, this section could help so many people take a grip on their life.
 
-These additional products would need more technology within AI and ML. To create algorithms that take the customers input to help them achieve their goals.
-These technologies are appropriate for this solution because they make things more efficient. AI can help predict the best decision to make. For example Alexa, utilizes AI to come up with the answers. In order for these new services to be included in the app, there has to be a model of what is a good and bad answer. As more data is inputted, the more accurate the model.
+Adding more features to their savings goal section, or implementing stricter budgeting tools could help customers obtain their goals faster. There is a lot of research that proves that our habits help us or break us. The company can benefit from helping the customer tbetter achieve their goals and in return the app will become more popular, it's a domino effect.
+
+These additional products would need more technology within AI and ML. To create algorithms that take the customers input to help them achieve their goals. For the most part, these recommendations also require more features in the app. Making the app a bit bigger.
+These technologies are appropriate for this solution because they make things more efficient. AI can help predict the best decision to make when it comes to budgets and Mint's customer service. Overall, these additional products can only help the app improve.
 
 
 ## References
